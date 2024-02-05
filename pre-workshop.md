@@ -13,4 +13,4 @@ This workshop is primarily hands-on practice with **UPDATE** in order to learn t
             -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
             -  Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
 
-[NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
+[NEXT STEP: Introduction to Hands-On Activities](workshop-activities.md){: .btn .btn-blue }
