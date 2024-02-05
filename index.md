@@ -6,31 +6,64 @@ nav_order: 1
 **UPDATE PHOTO**
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
-# Transcription with Whisper.ai
+# Transcription with Whisper.ai and Micrisoft 365
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Introductory presentation: 10 min
+- Hands-on activities: 30-40 min
 
-## Why TOOL NAME HERE? 
+## Why use transcription services?
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+Automated transcription services can help save time in qualitative research. While there are many options available, [Microsoft 365](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57), [Whisper Transciption](https://apps.apple.com/us/app/whisper-transcription/id1668083311?mt=12), and [Zoom](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0064927) are services that are free for UVic students and faculty. When choosing transciption services to use, one should also take into account the pros, cons, and research ethics considerations that are specific to each service.
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+## Pros and cons of services offered by Microsoft 365, Whisper Transcription, and Zoom
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
+**Microsoft 365**
+Pros:
+ - Free through UVic license
+ - Fast transcription
+ - Automatically detects different speakers
+ - No need for US Freedom Act disclosure
+Cons:
+- Need to disclose use in ethics application and participant consent forms
 
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
+**Whisper Transcription**
+Pros:
+- Free basic version
+- No need to disclose use in ethics application because it’s not cloud-based
+- No need for disclosure on participant consent forms
+Cons:
+- Does not automatically detect different speakers
+- Slower on older computers
 
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
+**Zoom**
+Pros:
+- Free through UVic license
+- Fast transcription
+- Automatically detects different speakers with their Zoom names
+Cons:
+- Need to disclose use in ethics application and participant consent forms
+Need for US Freedom Act disclosure
 
-## Learning objectives - UPDATE FOR THE NEW TOOL
 
-At the end of this workshop, you will be able to:
+## Transcription Services: UVic Research Ethics Considerations
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+**Not Cloud Based:**
+
+Whisper.ai: We do not need to disclose the use of Whisper.ai, as all data is processed locally on the researcher’s computer (similar to not needing to disclose the use of MS Word running on a laptop).
+
+**Cloud-Based but Hosted in Canada & UVic Licensed:**
+
+Office 365 Transcription: We must disclose the use of the MS Office 365 transcription on our Research Ethics applications, and participant consent form, but if we’re using the UVic-licensed version of MS Office 365 then there is no need for a US Freedom Act disclosure as UVic pays to have our version of MS Office 365 hosted in Canada.
+
+**Cloud-Based and Hosted in the USA:**
+
+Otter.ai: We must disclose the use of the Otter.ai transcription on our Research Ethics applications, and participant consent form, and include a US Freedom Act disclosure as Otter.ai data is processed and stored in the USA (at least in part).
+
+Zoom Transcription: We must disclose the use of Zoom for interviews on our Research Ethics applications and on the participant consent form. The UVic-licensed version of Zoom routes all the audio and video through Canadian servers, so if you don’t use the Zoom transcription service then there is no need to include a US Freedom Act disclosure. If you use the Zoom transcription service, you must disclose its use on your Research Ethics application and participant consent form, and include a US Freedom Act disclosure as Zoom transcription data is processed and stored in the USA (at least in part).
+
+YouTube: We must disclose the use of YouTube for transcription on our Research Ethics applications, and participant consent form, and include a US Freedom Act disclosure as YouTube data is processed and stored in the USA.
+
+For up-to-date information about UVic ethics guidelines, please visit the [Conducting research virtually with participants guide](https://www.uvic.ca/research-services/ethics-and-compliance/conducting-research-virtually/index.php)
+
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
