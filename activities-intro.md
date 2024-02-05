@@ -12,5 +12,5 @@ parent: Workshop Activities
 - Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**UPDATE**
-[Next Activity: Microsoft 365](Update link: basics-data-cleaning.html){: .btn .btn-blue }
+[Next Activity: Whisper Transcription](whisper-transcription.md){: .btn .btn-blue }
+[Next Activity: Microsoft 365](microsoft-365.md){: .btn .btn-blue }
