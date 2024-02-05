@@ -30,7 +30,7 @@ Note: Microsoft 365 is recommended for PC users since it isn’t directly availa
 3. Once you are in the main window, click **Open Files** or **Transcribe Podcast** and select an audio file to transcribe. The Transcribe Podcast option allows you to manually enter speakers in the free version.
 
 ![Export this view](/media/WhisperT2.png)
-  a. If you don’t have an MP3 audio file to transcribe, download this file.
+  a. If you don’t have an MP3 audio file to transcribe, [download this file](https://drive.google.com/file/d/1sncU_2N5JenM2TC5DJXZgHPdeZAwxGbi/view?usp=sharing). This file is snippet of a podcast rather than the full episode (to reduce processing time for this workshop).
 
 4. The application will automatically start transcribing and you will see the transcript developing in real time. Wait for the transcript to finish loading. You will see the percentage completed and estimated wait time remaining at the top of the screen.
 
