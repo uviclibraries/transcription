@@ -70,3 +70,7 @@ Note: Microsoft 365 is recommended for PC users since it isn’t directly availa
     i. If you selected **Full Transcript**, you can group lines by sentences or speaker paragraphs (if speakers have been added) under **Options**.
     ii. If you selected **Segments**, you can enable speaker names and time stamps under **Options**.
   c. Click **Export**. To open your new file in Microsoft Word, right click on the file in your finder and select **Open with > Microsoft Word**.
+
+  Congratulations! You've exported your file, which is now ready to edit/clean on Microsoft Word.
+
+  [Next Activity: Microsoft 365](microsoft-365.md){: .btn .btn-blue }
