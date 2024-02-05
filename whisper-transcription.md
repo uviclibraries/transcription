@@ -15,6 +15,7 @@ Learning objectives:
 - Export transcription as a Word document
 
 Presentation:
+
 [Presentation to Introduce the Workshop](https://docs.google.com/presentation/d/1DSi-h-4R5Lo2zv5Lukux4Oi8ekahJwW6AJQWAahovVY/edit?usp=sharing) (5-10 min)
 
 ## Activities:
