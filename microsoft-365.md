@@ -37,7 +37,7 @@ a. Sign Up For a UVic student license for Microsoft 365 here: OnlineServices.uvi
 
 ![Export this view](media/microsoft365-03.gif)
 
-  d. If you don’t have an MP3 audio file to transcribe, download this file.
+  d. If you don’t have an MP3 audio file to transcribe, [download this file](https://uviclibraries.github.io/transcription/media/makerspaces.mp3).
   e. Choose an audio file from the file picker (if you downloaded the file above then it is called: makerspaced.mp3 (The Microsoft 365 transcription service currently supports .wav, .mp4, .m4a, .mp3 formats). In the Transcribe pane, select Upload audio.
 
 ![Export this view](media/microsoft365-04.gif)
