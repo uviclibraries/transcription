@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workshop Activities
+title: Microsoft 365
 nav_order: 3
 has_children: true
 has_toc: true
