@@ -3,10 +3,10 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
-# Transcription with Whisper.ai and Micrisoft 365
+/* <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description"> */
+
+# Transcription with Whisper.ai and Microsoft 365
 
 - Introductory presentation: 10 min
 - Hands-on activities: 30-40 min
