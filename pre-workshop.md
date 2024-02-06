@@ -13,6 +13,3 @@ This workshop is primarily hands-on practice with Microsoft 365 and Whisper tran
 
 [Next Activity: Whisper Transcription](whisper-transcription.md){: .btn .btn-blue }
 [Next Activity: Microsoft 365](microsoft-365.md){: .btn .btn-blue }
-
-
-[NEXT STEP: Introduction to Hands-On Activities](workshop-activities.md)
