@@ -19,7 +19,8 @@ Presentation:
 Activities:
 
 1. Setup Microsoft 365 (if you haven’t done so already):
-a. Sign Up For a UVic student license for Microsoft 365 here: OnlineServices.uvic.ca 
+
+  a. Sign Up For a UVic student license for Microsoft 365 here: OnlineServices.uvic.ca 
 
 ![Export this view](media/microsoft365-01.png)
 
@@ -28,6 +29,7 @@ a. Sign Up For a UVic student license for Microsoft 365 here: OnlineServices.uvi
 
 
 2. Transcribe an audio file from a Zoom interview:
+
   a. Make sure you’re signed into  Microsoft 365, using the new Microsoft Edge or Chrome web browser.
   b. Open Word in the left nav bar and then create a new Blank document.
 
