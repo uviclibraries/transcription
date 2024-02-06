@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workshop Activities
+title: Workshop Activities: Whisper Transcription
 nav_order: 3
 has_children: true
 has_toc: true
