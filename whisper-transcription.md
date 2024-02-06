@@ -25,11 +25,9 @@ Presentation:
 Note: Microsoft 365 is recommended for PC users since it isn’t directly available for Windows yet
 
 2. Open Whisper Transcription and close the introductory window unless you are planning to purchase the Pro version. In the setup window, select the model that best fits your project (based on languages, accuracy, etc.). For transcriptions in English, the **Small** file size under **English Only** will offer the most accurate results out of the free options.
-
 ![Export this view](/media/WhisperT1.png)
 
 3. Once you are in the main window, click **Open Files** or **Transcribe Podcast** and select an audio file to transcribe. The Transcribe Podcast option allows you to manually enter speakers in the free version.
-
 ![Export this view](/media/WhisperT2.png)
   a. If you don’t have an MP3 audio file to transcribe, [download this file](https://drive.google.com/file/d/1sncU_2N5JenM2TC5DJXZgHPdeZAwxGbi/view?usp=sharing). This file is snippet of a podcast rather than the full episode (to reduce processing time for this workshop).
 
