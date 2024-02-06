@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Microsoft 365
+title: Workshop Activities: Microsoft 365
 nav_order: 3
-has_children: true
-has_toc: true
+
 ---
 # Microsoft 365 Transcription Workshop Activities
 
