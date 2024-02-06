@@ -2,7 +2,6 @@
 layout: default
 title: Workshop Activities: Whisper Transcription
 nav_order: 7
-
 ---
 # Whisper Transciption Workshop Activities
 
