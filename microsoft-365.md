@@ -5,6 +5,7 @@ nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
+
 # Microsoft 365 Transcription Workshop Activities
 
 Learning Objectives:
@@ -14,7 +15,7 @@ Learning Objectives:
 - Export transcription in one or more of four different formats
 
 Presentation:
-[Presentation to Introduce the Workshop](https://docs.google.com/presentation/d/1DSi-h-4R5Lo2zv5Lukux4Oi8ekahJwW6AJQWAahovVY/edit?usp=sharing) (5-10 min)
+[Presentation to Introduce the Workshop](https://docs.google.com/presentation/d/1DSi-h-4R5Lo2zv5Lukux4Oi8ekahJwW6AJQWAahovVY/edit?usp=sharing){:target="_blank"} (5-10 min)
 
 Activities:
 
@@ -39,7 +40,7 @@ Activities:
 
 ![Export this view](media/microsoft365-03.gif)
 
-  d. If you don’t have an MP3 audio file to transcribe, [download this file](https://uviclibraries.github.io/transcription/media/makerspaces.mp3).
+  d. If you don’t have an MP3 audio file to transcribe, [download this file](https://uviclibraries.github.io/transcription/media/makerspaces.mp3){:target="_blank"}.
   e. Choose an audio file from the file picker (if you downloaded the file above then it is called: makerspaced.mp3 (The Microsoft 365 transcription service currently supports .wav, .mp4, .m4a, .mp3 formats). In the Transcribe pane, select Upload audio.
 
 ![Export this view](media/microsoft365-04.gif)
