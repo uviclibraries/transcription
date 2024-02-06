@@ -1,9 +1,12 @@
 ---
 layout: default
-title: Workshop Activities: Whisper Transcription
-nav_order: 7
+title: Whisper.ai
+nav_order: 5
+parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-# Whisper Transciption Workshop Activities
+
+# Whisper.ai Workshop Activities
 
 Learning objectives:
 
