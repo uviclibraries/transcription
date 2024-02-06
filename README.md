@@ -1,4 +1,4 @@
-# Transcription with Whisper.ai
+# Transcription Services
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://lib.uvic.ca/transcription
