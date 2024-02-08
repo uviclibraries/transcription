@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# Whisper.ai Activities
+# Whisper.ai Transcription Activity
 
 Learning objectives:
 
