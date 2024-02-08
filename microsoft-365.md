@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-# Microsoft 365 Transcription Workshop Activities
+# Microsoft 365 Transcription Activity
 
 Learning Objectives:
 - Describe the benefits and use cases for transcribing audio with Microsoft 365 compared to other transcription technologies
