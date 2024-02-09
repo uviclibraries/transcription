@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Microsoft 365
+title: Microsoft 365 (Win & Mac)
 nav_order: 4
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
