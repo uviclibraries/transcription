@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OPTIONAL - Meeting Notes (Win & Mac)
+title: OPTIONAL - Summarize Meeting Notes (Win & Mac)
 nav_order: 6
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
