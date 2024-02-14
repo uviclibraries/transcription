@@ -1,10 +1,11 @@
 ---
 layout: default
-title: OPTIONAL: Meeting Notes (Win & Mac)
+title: OPTIONAL - Meeting Notes (Win & Mac)
 nav_order: 5
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
+# UNDER CONSTRUCTION!
 # Meeting Notes with Zoom & Microsoft Copilot
 
 In this activity you will learn how to transcribe staff meeting audio, and then create a bullet point summary of the meeting using the UVic licensed version of Microsoft CoPilot (which UVic has negociated additional privacy protections than come with the regular version of Co-Pilot
