@@ -9,7 +9,7 @@ This workshop is primarily hands-on practice with Microsoft 365 and Whisper tran
 - Microsoft 365 Transciption & Recording overiview (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ny-42b57Jao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Pros and cons of services offered by Microsoft 365, Whisper Transcription, and Zoom
+# Pros and cons of services offered by Microsoft 365, Whisper Transcription, and Zoom
 
 **Microsoft 365**
 Pros:
