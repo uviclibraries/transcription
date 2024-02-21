@@ -7,12 +7,6 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Microsoft 365 Transcription Activity
 
-Learning Objectives:
-- Describe the benefits and use cases for transcribing audio with Microsoft 365 compared to other transcription technologies
-- Setup (if necessary) and open Microsoft Word 365 in a web browser on your computer (not the installed Word application)
-- Transcribe an audio file
-- Export transcription in one or more of four different formats
-
 Presentation:
 [Presentation to Introduce the Workshop](https://docs.google.com/presentation/d/1DSi-h-4R5Lo2zv5Lukux4Oi8ekahJwW6AJQWAahovVY/edit?usp=sharing){:target="_blank"} (5-10 min)
 
