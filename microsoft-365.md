@@ -7,11 +7,6 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Microsoft 365 Transcription Activity
 
-Presentation:
-[Presentation to Introduce the Workshop](https://docs.google.com/presentation/d/1DSi-h-4R5Lo2zv5Lukux4Oi8ekahJwW6AJQWAahovVY/edit?usp=sharing){:target="_blank"} (5-10 min)
-
-Activities:
-
 1. Setup Microsoft 365 (if you haven’t done so already):
 
   a. Sign Up For a UVic student license for Microsoft 365 here: OnlineServices.uvic.ca 
