@@ -8,19 +8,6 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Whisper.ai Transcription Activity
 
-Learning objectives:
-
-- Understand the benefits and use cases for transcribing audio with Whisper.ai compared to other transcription technologies
-- Setup (if necessary) and open Whisper Transcription on your computer
-- Transcribe an audio file and add speakers
-- Export transcription as a Word document
-
-Presentation:
-
-[Presentation to Introduce the Workshop](https://docs.google.com/presentation/d/1DSi-h-4R5Lo2zv5Lukux4Oi8ekahJwW6AJQWAahovVY/edit?usp=sharing) (5-10 min)
-
-## Activities:
-
 1. If you are using a Mac, download Whisper Transcription from the [App store](https://apps.apple.com/us/app/whisper-transcription/id1668083311?mt=12). If you are using a PC, you can’t download it directly but you may use a workaround following [these instructions](https://www.thewindowsclub.com/how-to-use-openai-whisper-on-windows-pc)
 Note: Microsoft 365 is recommended for PC users since it isn’t directly available for Windows yet
 
