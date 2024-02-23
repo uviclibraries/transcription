@@ -4,7 +4,11 @@ title: Pre-Workshop Activities
 nav_order: 2
 ---
 ## Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with Microsoft 365 and Whisper transcription services in order to learn to use key features of the software. To participate fully you may do the following **before the workshop**:
+This workshop is primarily hands-on practice with Microsoft 365 and Whisper transcription services to learn to use key features of the software.
+
+**Please Note: If you are a UVic staff or faculty member, you will not be able to use the Whisper.ai transcription software unless your faculty systems support person installs it for you.** Here is a link to the [Windows Software](https://download.gowhisper.io/){:target="_blank"} & the [Mac Software](https://goodsnooze.gumroad.com/l/macwhisper){:target="_blank"}
+
+To participate fully please do the following **before the workshop**:
 
 - Microsoft 365 Transciption & Recording overiview (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ny-42b57Jao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -57,7 +61,7 @@ Zoom Transcription: We must disclose the use of Zoom for interviews on our Resea
 
 YouTube: We must disclose the use of YouTube for transcription on our Research Ethics applications, and participant consent form, and include a US Freedom Act disclosure as YouTube data is processed and stored in the USA.
 
-For up-to-date information about UVic ethics guidelines, please visit the [Conducting research virtually with participants guide](https://www.uvic.ca/research-services/ethics-and-compliance/conducting-research-virtually/index.php)
+For up-to-date information about UVic ethics guidelines, please visit the [Conducting research virtually with participants guide](https://www.uvic.ca/research-services/ethics-and-compliance/conducting-research-virtually/index.php){:target="_blank"}
 
 [Next Activity: Whisper Transcription](whisper-transcription.md){: .btn .btn-blue }
 [Next Activity: Microsoft 365](microsoft-365.md){: .btn .btn-blue }
