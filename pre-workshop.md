@@ -6,9 +6,9 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with Microsoft 365 and Whisper transcription services to learn to use key features of the software.
 
-**Please Note: If you are a UVic staff or faculty member, you will not be able to use the Whisper.ai transcription software unless your faculty systems support person installs it for you.** Here is a link to the [Windows Software](https://download.gowhisper.io/){:target="_blank"} & the [Mac Software](https://goodsnooze.gumroad.com/l/macwhisper){:target="_blank"}
+**Please Note: If you are a UVic staff or faculty member, you will not be able to use the Whisper.ai transcription software unless your faculty systems support person installs it for you.** Here is a link to the [Windows Software](https://download.gowhisper.io/){:target="_blank"} & the [Mac Software](https://goodsnooze.gumroad.com/l/macwhisper){:target="_blank"}. You will be able to use the Microsoft 365 transcription service without any problems.
 
-To participate fully please do the following **before the workshop**:
+To participate fully, please do the following **before the workshop**:
 
 - Microsoft 365 Transciption & Recording overiview (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ny-42b57Jao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
