@@ -8,16 +8,17 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # GoWhisper Transcription Activity for Windows
 
-1. If you are using a Windows computer, download Gohisper from the [GoWhisper website](https://download.gowhisper.io/){:target="_blank"}. 
+1. If you are using a Windows computer, go to the [GoWhisper website](https://download.gowhisper.io/){:target="_blank"}, and then download the **Windows version** of GoWhisper.
+2. Install GoWhisper by
 
-2. Open Whisper Transcription and close the introductory window unless you are planning to purchase the Pro version. In the setup window, select the model that best fits your project (based on languages, accuracy, etc.). For transcriptions in English, the **Small** file size under **English Only** will offer the most accurate results out of the free options.<br>
+3. Open Whisper Transcription and close the introductory window unless you are planning to purchase the Pro version. In the setup window, select the model that best fits your project (based on languages, accuracy, etc.). For transcriptions in English, the **Small** file size under **English Only** will offer the most accurate results out of the free options.<br>
 ![Export this view](/media/WhisperT1.png)
 
-3. Once you are in the main window, click **Open Files** or **Transcribe Podcast** and select an audio file to transcribe. The Transcribe Podcast option allows you to manually enter speakers in the free version.
+4. Once you are in the main window, click **Open Files** or **Transcribe Podcast** and select an audio file to transcribe. The Transcribe Podcast option allows you to manually enter speakers in the free version.
 ![Export this view](/media/WhisperT2.png)
   a. If you don’t have an MP3 audio file to transcribe, [download this file](https://drive.google.com/file/d/1sncU_2N5JenM2TC5DJXZgHPdeZAwxGbi/view?usp=sharing){:target="_blank"}. This file is snippet of a podcast rather than the full episode (to reduce processing time for this workshop).
 
-4. The application will automatically start transcribing and you will see the transcript developing in real time. Wait for the transcript to finish loading. You will see the percentage completed and estimated wait time remaining at the top of the screen.<br>
+5. The application will automatically start transcribing and you will see the transcript developing in real time. Wait for the transcript to finish loading. You will see the percentage completed and estimated wait time remaining at the top of the screen.<br>
 ![Export this view](/media/WhisperT3.png)<br>
   - To give you an idea of the wait time, a 30-minute audio file will typically take 90-120 minutes to complete transcribing.
   - You can click **Stop** in the top right to stop transcription at any time. You will still be able to export text saved so far.<br>
