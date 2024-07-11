@@ -22,6 +22,6 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 5. To save the transcription text to your computer, click on the **Export** button on the top left of the application window and then select **Save at TXT**.<br>
 ![Export this view](/media/gowhisper04.jpg)<br>
 
-Congratulations! You've exported your file, which is now ready to edit/clean on Microsoft Word.
+Congratulations! You've exported your file, which is now ready to open in a word processor to clean up any transcription errors you that may have been made.
 
 [Next Activity: Microsoft 365](microsoft-365.md){: .btn .btn-blue }
