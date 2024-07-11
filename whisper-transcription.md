@@ -19,16 +19,12 @@ Note: Microsoft 365 is recommended for PC users since it isn’t directly availa
   a. If you don’t have an MP3 audio file to transcribe, [download this file](https://drive.google.com/file/d/1sncU_2N5JenM2TC5DJXZgHPdeZAwxGbi/view?usp=sharing). This file is snippet of a podcast rather than the full episode (to reduce processing time for this workshop).
 
 4. The application will automatically start transcribing and you will see the transcript developing in real time. Wait for the transcript to finish loading. You will see the percentage completed and estimated wait time remaining at the top of the screen.<br>
-![Export this view](/media/WhisperT3.png)
-  a. To give you an idea of the wait time, a 30 minute audio file will typically take 90-120 minutes to complete transcribing.
-  b. You can click **Stop** in the top right to stop transcription at any time. You will still be able to export text saved so far.
-
-![Export this view](/media/WhisperT4.png)
-
-5. To save the file in the application, navigate to your top toolbar and select **File > Save Transcription File**.
-
-![Export this view](/media/WhisperT5.png)
-
+![Export this view](/media/WhisperT3.png)<br>
+  - To give you an idea of the wait time, a 30 minute audio file will typically take 90-120 minutes to complete transcribing.
+  - You can click **Stop** in the top right to stop transcription at any time. You will still be able to export text saved so far.<br>
+![Export this view](/media/WhisperT4.png)<br<
+5. To save the file in the application, navigate to your top toolbar and select **File > Save Transcription File**.<br>
+![Export this view](/media/WhisperT5.png)<br>
 6. **Optional:** If you selected the Transcribe Podcast function, you can manually add two speakers in the free version.
   a. In the top toolbar of your computer, select **Transcript > Manage speakers**.
 
