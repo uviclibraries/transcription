@@ -11,7 +11,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 1. If you are using a Mac, download Whisper Transcription from the [App store](https://apps.apple.com/us/app/whisper-transcription/id1668083311?mt=12). If you are using a PC, you can’t download it directly but you may use a workaround following [these instructions](https://www.thewindowsclub.com/how-to-use-openai-whisper-on-windows-pc)
 Note: Microsoft 365 is recommended for PC users since it isn’t directly available for Windows yet
 
-2. Open Whisper Transcription and close the introductory window unless you are planning to purchase the Pro version. In the setup window, select the model that best fits your project (based on languages, accuracy, etc.). For transcriptions in English, the **Small** file size under **English Only** will offer the most accurate results out of the free options.<\br>
+2. Open Whisper Transcription and close the introductory window unless you are planning to purchase the Pro version. In the setup window, select the model that best fits your project (based on languages, accuracy, etc.). For transcriptions in English, the **Small** file size under **English Only** will offer the most accurate results out of the free options.<br>
 ![Export this view](/media/WhisperT1.png)
 
 3. Once you are in the main window, click **Open Files** or **Transcribe Podcast** and select an audio file to transcribe. The Transcribe Podcast option allows you to manually enter speakers in the free version.
