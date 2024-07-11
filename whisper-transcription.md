@@ -29,27 +29,20 @@ Note: Microsoft 365 is recommended for PC users since it isn’t directly availa
   a. In the top toolbar of your computer, select **Transcript > Manage speakers**.<br>
 ![Export this view](/media/WhisperT6.png)<br>
   b. Click the **plus sign** to add speakers and name them.<br>
-![Export this view](/media/WhisperT7.png)
-  c. Return to your transcript (available through the left pane on the Whisper home window) and select **Segments** at the top.
-
-![Export this view](/media/WhisperT8.png)
-  d. Click the **left margin** on the lines that you want to assign speakers to, and select your speaker.
-
-![Export this view](/media/WhisperT9.png)
-
-7. To export the transcription file to your computer once it has finished transcribing, select **Export** at the top right.
-
-![Export this view](/media/WhisperT10.png)
-
-  a. You can toggle the **Style** and **Grouping** settings on the right pane.
-
-![Export this view](/media/WhisperT11.png)
- 
+![Export this view](/media/WhisperT7.png)<br>
+  c. Return to your transcript (available through the left pane on the Whisper home window) and select **Segments** at the top.<br>
+![Export this view](/media/WhisperT8.png)<br>
+  d. Click the **left margin** on the lines that you want to assign speakers to, and select your speaker.<br>
+![Export this view](/media/WhisperT9.png)<br>
+7. To export the transcription file to your computer once it has finished transcribing, select **Export** at the top right.<br>
+![Export this view](/media/WhisperT10.png)<br>
+  a. You can toggle the **Style** and **Grouping** settings on the right pane.<br>
+![Export this view](/media/WhisperT11.png)<br>
   b. Under **Style**, selecting **Full Transcript** will give you the text only, while selecting **Segments** will allow you to include time stamps.
     - If you selected **Full Transcript**, you can group lines by sentences or speaker paragraphs (if speakers have been added) under **Options**.
     - If you selected **Segments**, you can enable speaker names and time stamps under **Options**.
   c. Click **Export**. To open your new file in Microsoft Word, right click on the file in your finder and select **Open with > Microsoft Word**.
 
-  Congratulations! You've exported your file, which is now ready to edit/clean on Microsoft Word.
+Congratulations! You've exported your file, which is now ready to edit/clean on Microsoft Word.
 
-  [Next Activity: Microsoft 365](microsoft-365.md){: .btn .btn-blue }
+[Next Activity: Microsoft 365](microsoft-365.md){: .btn .btn-blue }
