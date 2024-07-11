@@ -18,8 +18,7 @@ Note: Microsoft 365 is recommended for PC users since it isn’t directly availa
 ![Export this view](/media/WhisperT2.png)
   a. If you don’t have an MP3 audio file to transcribe, [download this file](https://drive.google.com/file/d/1sncU_2N5JenM2TC5DJXZgHPdeZAwxGbi/view?usp=sharing). This file is snippet of a podcast rather than the full episode (to reduce processing time for this workshop).
 
-4. The application will automatically start transcribing and you will see the transcript developing in real time. Wait for the transcript to finish loading. You will see the percentage completed and estimated wait time remaining at the top of the screen.
-
+4. The application will automatically start transcribing and you will see the transcript developing in real time. Wait for the transcript to finish loading. You will see the percentage completed and estimated wait time remaining at the top of the screen.<br>
 ![Export this view](/media/WhisperT3.png)
   a. To give you an idea of the wait time, a 30 minute audio file will typically take 90-120 minutes to complete transcribing.
   b. You can click **Stop** in the top right to stop transcription at any time. You will still be able to export text saved so far.
@@ -53,8 +52,8 @@ Note: Microsoft 365 is recommended for PC users since it isn’t directly availa
 ![Export this view](/media/WhisperT11.png)
  
   b. Under **Style**, selecting **Full Transcript** will give you the text only, while selecting **Segments** will allow you to include time stamps.
-    i. If you selected **Full Transcript**, you can group lines by sentences or speaker paragraphs (if speakers have been added) under **Options**.
-    ii. If you selected **Segments**, you can enable speaker names and time stamps under **Options**.
+    - If you selected **Full Transcript**, you can group lines by sentences or speaker paragraphs (if speakers have been added) under **Options**.
+    - If you selected **Segments**, you can enable speaker names and time stamps under **Options**.
   c. Click **Export**. To open your new file in Microsoft Word, right click on the file in your finder and select **Open with > Microsoft Word**.
 
   Congratulations! You've exported your file, which is now ready to edit/clean on Microsoft Word.
