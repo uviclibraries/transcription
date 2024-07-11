@@ -16,7 +16,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 5. Next, click **Upload your file here** icon, and then select an audio file to transcribe. If you don’t have an MP3 audio file to transcribe, [download this file](https://drive.google.com/file/d/1sncU_2N5JenM2TC5DJXZgHPdeZAwxGbi/view?usp=sharing){:target="_blank"}. This file is snippet of a podcast rather than the full episode (to reduce processing time for this workshop).<br>
 ![Export this view](/media/gowhisper02.jpg)<br>
 6. The application will automatically start transcribing and you will see the transcript developing in real time. Wait for the transcript to finish loading. You will see the percentage completed and estimated wait time remaining at the top of the screen.<br>
-![Export this view](/media/gowhisper02.jpg)<br>
+![Export this view](/media/gowhisper03.jpg)<br>
   - To give you an idea of the wait time, a 30-minute audio file will typically take 90-120 minutes to complete transcribing.
   - You can click **Stop** in the top right to stop transcription at any time.<br>
 ![Export this view](/media/WhisperT4.png)<br>
