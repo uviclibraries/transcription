@@ -19,9 +19,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ![Export this view](/media/gowhisper03.jpg)<br>
   - To give you an idea of the wait time, a 30-minute audio file will typically take 90-120 minutes to complete transcribing.
   - You can click **Stop** in the top right to stop transcription at any time.<br>
-![Export this view](/media/WhisperT4.png)<br>
-5. To save the file in the application, navigate to your top toolbar and select **File > Save Transcription File**.<br>
-![Export this view](/media/WhisperT5.png)<br>
+5. To save the transcription text to your computer, click on the **Export** button on the top left of the application window and then select **Save at TXT**.<br>
+![Export this view](/media/gowhisper04.jpg)<br>
 6. **Optional:** If you selected the Transcribe Podcast function, you can manually add two speakers in the free version.
   a. In the top toolbar of your computer, select **Transcript > Manage speakers**.<br>
 ![Export this view](/media/WhisperT6.png)<br>
