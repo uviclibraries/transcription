@@ -8,12 +8,10 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # GoWhisper Transcription Activity for Windows
 
-1. If you are using a Windows computer, go to the [GoWhisper website](https://download.gowhisper.io/){:target="_blank"}, and then download the **Windows version** of GoWhisper.
-2. Install GoWhisper by
-
-3. Open Whisper Transcription and close the introductory window unless you are planning to purchase the Pro version. In the setup window, select the model that best fits your project (based on languages, accuracy, etc.). For transcriptions in English, the **Small** file size under **English Only** will offer the most accurate results out of the free options.<br>
-![Export this view](/media/WhisperT1.png)
-
+1. If you are using a Windows computer, go to the [GoWhisper website](https://download.gowhisper.io/){:target="_blank"}, and then download the **Windows version** of GoWhisper. Please note the location where your web browser is saving the GoWhisper install file (usually your "Downloads", "Documents", or "Desktop" folder).
+2. Go to the folder where the GoWhisper install file was saved, and then double-click on it and follow the installation directions.
+3. Open GoWhisper Transcription. In the setup window, select the model that best fits your project (based on languages, accuracy, etc.). For transcriptions in English, the **Small** file size under **English Only** will offer the most accurate results out of the free options.<br>
+![Export this view](/media/gowhisper01.jpg)
 4. Once you are in the main window, click **Open Files** or **Transcribe Podcast** and select an audio file to transcribe. The Transcribe Podcast option allows you to manually enter speakers in the free version.
 ![Export this view](/media/WhisperT2.png)
   a. If you don’t have an MP3 audio file to transcribe, [download this file](https://drive.google.com/file/d/1sncU_2N5JenM2TC5DJXZgHPdeZAwxGbi/view?usp=sharing){:target="_blank"}. This file is snippet of a podcast rather than the full episode (to reduce processing time for this workshop).
