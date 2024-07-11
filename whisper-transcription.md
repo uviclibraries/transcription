@@ -20,17 +20,15 @@ Note: Microsoft 365 is recommended for PC users since it isn’t directly availa
 
 4. The application will automatically start transcribing and you will see the transcript developing in real time. Wait for the transcript to finish loading. You will see the percentage completed and estimated wait time remaining at the top of the screen.<br>
 ![Export this view](/media/WhisperT3.png)<br>
-  - To give you an idea of the wait time, a 30 minute audio file will typically take 90-120 minutes to complete transcribing.
+  - To give you an idea of the wait time, a 30-minute audio file will typically take 90-120 minutes to complete transcribing.
   - You can click **Stop** in the top right to stop transcription at any time. You will still be able to export text saved so far.<br>
-![Export this view](/media/WhisperT4.png)<br<
+![Export this view](/media/WhisperT4.png)<br>
 5. To save the file in the application, navigate to your top toolbar and select **File > Save Transcription File**.<br>
 ![Export this view](/media/WhisperT5.png)<br>
 6. **Optional:** If you selected the Transcribe Podcast function, you can manually add two speakers in the free version.
-  a. In the top toolbar of your computer, select **Transcript > Manage speakers**.
-
-![Export this view](/media/WhisperT6.png)
-  b. Click the **plus sign** to add speakers and name them.
-
+  a. In the top toolbar of your computer, select **Transcript > Manage speakers**.<br>
+![Export this view](/media/WhisperT6.png)<br>
+  b. Click the **plus sign** to add speakers and name them.<br>
 ![Export this view](/media/WhisperT7.png)
   c. Return to your transcript (available through the left pane on the Whisper home window) and select **Segments** at the top.
 
