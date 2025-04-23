@@ -10,9 +10,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 1. If you are using a Mac, download Whisper Transcription from the [App store](https://apps.apple.com/us/app/whisper-transcription/id1668083311?mt=12){:target="_blank"}. 
 2. Open Whisper Transcription and close the introductory window unless you are planning to purchase the Pro version. In the setup window, select the model that best fits your project (based on languages, accuracy, etc.). For transcriptions in English, the **Small** file size under **English Only** will offer the most accurate results out of the free options.<br>
-![Export this view](/media/WhisperT1.png)
-3. Once you are in the main window, click **Open Files** or **Transcribe Podcast** and select an audio file to transcribe. The Transcribe Podcast option allows you to manually enter speakers in the free version.
-![Export this view](/media/WhisperT2.png)
+![Export this view](/media/WhisperT1.png)<br>
+3. Once you are in the main window, click **Open Files** or **Transcribe Podcast** and select an audio file to transcribe. The Transcribe Podcast option allows you to manually enter speakers in the free version.<br>
+![Export this view](/media/WhisperT2.png)<br>
    - If you don’t have an MP3 audio file to transcribe, [download this file](https://drive.google.com/file/d/1sncU_2N5JenM2TC5DJXZgHPdeZAwxGbi/view?usp=sharing){:target="_blank"}. This file is snippet of a podcast rather than the full episode (to reduce processing time for this workshop).
 4. The application will automatically start transcribing and you will see the transcript developing in real time. Wait for the transcript to finish loading. You will see the percentage completed and estimated wait time remaining at the top of the screen.<br>
 ![Export this view](/media/WhisperT3.png)<br>
