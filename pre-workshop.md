@@ -24,6 +24,7 @@ To participate fully, please do the following **before the workshop**:
  - Fast transcription
  - Automatically detects different speakers
  - No need for US Freedom Act disclosure
+
 **Cons**:
  - Need to disclose use in ethics application and participant consent forms
 
@@ -32,6 +33,7 @@ To participate fully, please do the following **before the workshop**:
  - Free basic version
  - No need to disclose use in ethics application because it’s not cloud-based
  - No need for disclosure on participant consent forms
+
 **Cons**:
  - Does not automatically detect different speakers
  - Slower on older computers
@@ -41,6 +43,7 @@ To participate fully, please do the following **before the workshop**:
  - Free through UVic license
  - Fast transcription
  - Automatically detects different speakers with their Zoom names
+
 **Cons**:
  - Need to disclose use in ethics application and participant consent forms
  - Need for US Freedom Act disclosure
