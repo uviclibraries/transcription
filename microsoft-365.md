@@ -15,13 +15,13 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 3. Transcribe an audio file from a Zoom interview:
    -  Make sure you’re signed into  Microsoft 365, using the new Microsoft Edge or Chrome web browser.
    -  Open Word in the left nav bar and then create a new Blank document.<br>
-   ![Export this view](media/microsoft365-02.gif)<br>
-   -  Go to  Dictate then click on the dropdown, then Transcribe.<br>
    ![Export this view](media/microsoft365-03.gif)<br>
+   -  Go to  Dictate then click on the dropdown, then Transcribe.<br>
+   ![Export this view](media/microsoft365-05.gif)<br>
    -  If you don’t have an MP3 audio file to transcribe, [download this file](https://uviclibraries.github.io/transcription/media/makerspaces.mp3){:target="_blank"}.
    -  Choose an audio file from the file picker (if you downloaded the file above then it is called: makerspaced.mp3 (The Microsoft 365 transcription service currently supports .wav, .mp4, .m4a, .mp3 formats). In the Transcribe pane, select Upload audio.<br>
    ![Export this view](media/microsoft365-04.gif)<br>
    -  Transcription may take a while, depending on your internet speed, up to about the length of the audio file. Be sure to keep the Transcribe pane open while the transcription is happening, but feel free to do other work or switch browser tabs or applications and come back later.
 4. Add the transcription to your file, by selecting Add to document and then clicking on, With speakers. Note that there are multiple formats, but for researchers, the most popular format is “With speakers”<br>
-   ![Export this view](media/microsoft365-05.gif)<br>
+   ![Export this view](media/microsoft365-02.gif)<br>
 5. Great job! You’ve just transcribed your first audio file with Microsoft 365!
