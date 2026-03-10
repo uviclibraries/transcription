@@ -16,7 +16,7 @@ To transcribe a file using aTrain, follow the steps below.
    
 2. Open the aTrain app.
      
-3. In the main page, under **Select file**, click on **Select File** to select the file you want to transcribe. If you don’t have an MP3 audio file to transcribe please download one of the following files:
+3. In the main page, under **Select file**, click on **Select File** to select the file you want to transcribe. If you don’t have an MP3 audio file to transcribe please download one of the following files and make note of which folder your web browser places in on your computer:
   - [6-minute interview for older computers](https://uviclibraries.github.io/transcription/media/makerspaces-6m.mp3){:target="_blank"}.
   - [30-minute interview for newer computers](https://uviclibraries.github.io/transcription/media/makerspaces-30m.mp3){:target="_blank"}.
     ![Export this view](media/atrain-gif01-openfile.gif)<br>
