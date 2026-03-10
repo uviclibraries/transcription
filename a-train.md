@@ -22,7 +22,7 @@ To transcribe a file using aTrain, follow the steps below.
 4. Under **Select model**, choose the model you want to use. We recommend starting with the tiny model, which is the simplest. If you don't see the option for the tiny model, you need to first download it. To do this, click on **Models** on the left tab, and then click on **Download** to download the tiny model or whatever model you want. You might need to restart aTrain and/or reselect your file for the changes to take effect.
     ![Export this view](media/atrain-gif02-choosemodel.gif)<br>
    
-5. In the same window, choose the language of the file under **Select language**, select if you want speaker detection or not (we recommend that you choose speaker detection), type in the number of speakers, and then click on **Start** to strat transcribing!
+5. Back to the **Transcribe** window, choose the language of the file under **Select language**, select if you want speaker detection or not (we recommend that you choose speaker detection), type in the number of speakers, and then click on **Start** to start transcribing!
     ![Export this view](media/atrain-gif03-otherchoices.gif)<br>
    
 6. Once the transcription is done, the app will automatically open the folder where the transcription was saved. The file named "transcription.txt" is the transcribed file. You can now copy the text into Microsoft Word or your text editor of choice to visualize and clean/edit it!
