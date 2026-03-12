@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Activities Introduction
-nav_order: 2
-parent: Workshop Activities
+nav_order: 3
 ---
 ## Hands-On Activities Introduction
 This workshop is primarily hands-on practice with Microsoft 365 and Whisper transcription services in order to learn to use key features of the software. To participate fully you may do the following **before the workshop**:
