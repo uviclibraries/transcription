@@ -1,6 +1,7 @@
 title: Transcription Services
 # remote_theme: ubc-library-rc/rc-theme
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_repository: "https://github.com/uviclibraries/transcription" # the github URL for your repo
