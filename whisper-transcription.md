@@ -1,3 +1,11 @@
+`` ---
+`` layout: default
+`` title: Whisper.ai (Mac)
+`` nav_order: 5
+`` parent: Workshop Activities
+`` customjs: http://code.jquery.com/jquery-1.4.2.min.js
+`` ---
+
 # Whisper.ai Transcription Activity
 
 1. If you are using a Mac, download Whisper Transcription from the [App store](https://apps.apple.com/us/app/whisper-transcription/id1668083311?mt=12){:target="_blank"}. 
