@@ -9,7 +9,7 @@ As a researcher it is very important that you carefully review UVic's guidelines
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with Microsoft 365 and Whisper transcription services to learn to use key features of the software.
 
-> **Please Note: If you are a UVic staff or faculty member, you will not be able to use the Whisper.ai transcription software unless your faculty systems support person installs it for you.** 
+> **Please Note: If you are a UVic staff or faculty member, you will not be able to use the aTrain transcription software on your UVic provided computer, so you would need to install it on a personal laptop** 
 
 Here is a link to the [Windows Software](https://apps.microsoft.com/store/detail/atrain/9N15Q44SZNS2){:target="_blank"} & the [Mac Software](https://goodsnooze.gumroad.com/l/macwhisper){:target="_blank"}. You will be able to use the Microsoft 365 transcription service without any problems.
 
@@ -18,23 +18,22 @@ To participate fully, please do the following **before the workshop**:
 - Microsoft 365 Transciption & Recording overiview (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ny-42b57Jao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Pros and cons of services offered by Microsoft 365, Whisper Transcription, and Zoom
+## Pros and cons of services offered by Microsoft 365, aTrain Implementation of Whisper, and Zoom
 
-### Microsoft 365
+### Microsoft 365 (UVic licensed version)
 **Pros**:
  - Free through UVic license
  - Fast transcription
  - Automatically detects different speakers
- - No need for US Freedom Act disclosure
+ - Likely no need for US Freedom Act disclosure, but please check with the Research Ethic office when filling out your Research Ethics paperwork.
 
 **Cons**:
- - Need to disclose use in ethics application and participant consent forms
+ - Need to disclose cloud computing use in ethics application and participant consent forms
 
-### Whisper Transcription
+### aTrain Implementation of Whisper
 **Pros**:
  - Free basic version
- - No need to disclose use in ethics application because it’s not cloud-based
- - No need for disclosure on participant consent forms
+ - Likely no need to disclose use in resarch ethics application because it does not use cloud computing or on participant consent forms, but please check with the Research Ethic office when filling out your Research Ethics paperwork.
 
 **Cons**:
  - Does not automatically detect different speakers
@@ -48,21 +47,19 @@ To participate fully, please do the following **before the workshop**:
 
 **Cons**:
  - Need to disclose use in ethics application and participant consent forms
- - Need for US Freedom Act disclosure
+ - Need for US Freedom Act and cloud computing disclosure
 
 
 ## Transcription Services: UVic Research Ethics Considerations
 
 ### Not Cloud Based:
-- **Whisper.ai**: We do not need to disclose the use of Whisper.ai, as all data is processed locally on the researcher’s computer (similar to not needing to disclose the use of MS Word running on a laptop).
+- **aTrain Implementaiton of Whisper**: There is likely no need to disclose the use of aTrain, as all data is processed locally on the researcher’s computer (similar to not needing to disclose the use of MS Word running on a laptop), but please check with the Research Ethic office when filling out your Research Ethics paperwork.
 
 ### Cloud-Based but Hosted in Canada & UVic Licensed:
-- **Office 365 Transcription**: We must disclose the use of the MS Office 365 transcription on our Research Ethics applications, and participant consent form, but if we’re using the UVic-licensed version of MS Office 365 then there is no need for a US Freedom Act disclosure as UVic pays to have our version of MS Office 365 hosted in Canada.
+- **Office 365 Transcription**: We must disclose the use of the MS Office 365 transcription on our Research Ethics applications, and participant consent form, but if we’re using the UVic-licensed version of MS Office 365 then there is likely no need for a US Freedom Act disclosure as UVic pays to have our version of MS Office 365 hosted in Canada. Please check with the Research Ethic office when filling out your Research Ethics paperwork.
 
-### Cloud-Based and Hosted in the USA:
-- **Otter.ai**: We must disclose the use of the Otter.ai transcription on our Research Ethics applications, and participant consent form, and include a US Freedom Act disclosure as Otter.ai data is processed and stored in the USA (at least in part).
-- **Zoom Transcription**: We must disclose the use of Zoom for interviews on our Research Ethics applications and on the participant consent form. The UVic-licensed version of Zoom routes all the audio and video through Canadian servers, so if you don’t use the Zoom transcription service then there is no need to include a US Freedom Act disclosure. If you use the Zoom transcription service, you must disclose its use on your Research Ethics application and participant consent form, and include a US Freedom Act disclosure as Zoom transcription data is processed and stored in the USA (at least in part).
-- **YouTube**: We must disclose the use of YouTube for transcription on our Research Ethics applications, and participant consent form, and include a US Freedom Act disclosure as YouTube data is processed and stored in the USA.
+### Other Cloud-Based Transcription Services and Hosted in the USA (not recommended):
+- **Otter.ai**: The use of the Otter.ai transcription must be disclosed in Research Ethics applications, and participant consent form, and include a US Freedom Act disclosure as Otter.ai data is processed and stored in the USA (at least in part).
 
 > **For up-to-date information about UVic ethics guidelines, please visit the [Conducting research virtually with participants guide](https://www.uvic.ca/research-services/ethics-and-compliance/conducting-research-virtually/index.php){:target="_blank"}**
 
