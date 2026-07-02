@@ -17,6 +17,8 @@ To participate fully, please do the following **before the workshop**:
 
 - Microsoft 365 Transciption & Recording overiview (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ny-42b57Jao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- aTrain Implementation of Whisper transcription overview (3 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=SMmx-JsA_-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pros and cons of services offered by Microsoft 365, aTrain Implementation of Whisper, and Zoom
 
