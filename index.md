@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-<img src="media/atrain-logo.png" style="float:right;width:180px;" alt="aTrain logo">
+<img src="images/atrain-logo.png" style="float:right;width:180px;" alt="aTrain logo">
 
 # Transcription with Whisper.ai and Microsoft 365
 
