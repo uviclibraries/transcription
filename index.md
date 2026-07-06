@@ -17,9 +17,9 @@ Automated transcription services can help save time in qualitative research. Whi
 
 ## Learning Objectives
 
-- Describe the benefits and use cases for transcribing audio with Microsoft 365, Whisper.ai, and Zoom compared to other transcription technologies
+- Describe the benefits and use cases for transcribing audio with Microsoft 365, aTrain, and Zoom compared to other transcription technologies
 - Setup (if necessary) and open Microsoft Word 365 in a web browser on your computer (not the installed Word application)
-- Setup (if necessary) and open Whisper Transcription on your computer
+- Setup (if necessary) and open aTrain Transcription on your computer
 - Describe the benefits and use cases for transcribing audio with Whisper.ai compared to other transcription technologies
 - Transcribe an audio file
 - Export transcription in two or more different formats
