@@ -17,23 +17,23 @@ To participate fully, please do the following **before the workshop**:
 - aTrain Implementation of Whisper transcription overview (3 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v=SMmx-JsA_-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Pros and cons of services offered by Microsoft 365, aTrain's Implementation of Whisper, and Zoom
+## Key considerations when evaluating the transcription services of Microsoft 365, aTrain, & Zoom
 
 ### Microsoft 365 (UVic licensed version)
 **Pros**:
  - Free through UVic license
  - Fast transcription
  - Automatically detects different speakers
- - Likely no need for US Freedom Act disclosure, but please check with the Research Ethic office when filling out your Research Ethics paperwork.
+ - May not need to include a US Freedom Act disclosure, but please check with the Research Ethic office when filling out your Research Ethics paperwork.
 
 **Cons**:
- - Must to disclose cloud computing use in ethics application and participant consent forms
+ - Must to disclose cloud computing use in ethics application and participant participant consent forms
 
 ### aTrain Implementation of Whisper
 **Pros**:
  - Free basic version
  - Detects speakers
- - Likely no need to disclose use in resarch ethics application because it does not use cloud computing or on participant consent forms, but please check with the Research Ethic office when filling out your Research Ethics paperwork.
+ - May not need to disclose cloud use in resarch ethics application & participant consent forms because aTrain does not use cloud computing, but please check with the Research Ethic office when filling out your Research Ethics paperwork.
 
 **Cons**:
  - Slower on older computers
