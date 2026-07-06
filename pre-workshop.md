@@ -49,7 +49,7 @@ To participate fully, please do the following **before the workshop**:
 
 **Cons**:
  - Must disclose cloud computing use in research ethics application and participant consent forms
- - Must disclose data storage in the Unitec States in research ethics application and participant consent forms
+ - Must disclose data storage in the United States in research ethics application and participant consent forms
 
 > **For the most up-to-date information about UVic ethics guidelines, please visit the [Conducting research virtually with participants guide](https://www.uvic.ca/research-services/ethics-and-compliance/conducting-research-virtually/index.php){:target="_blank"}**
 
