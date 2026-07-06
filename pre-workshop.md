@@ -35,10 +35,10 @@ To participate fully, please do the following **before the workshop**:
 ### aTrain Implementation of Whisper
 **Pros**:
  - Free basic version
+ - Detects speakers
  - Likely no need to disclose use in resarch ethics application because it does not use cloud computing or on participant consent forms, but please check with the Research Ethic office when filling out your Research Ethics paperwork.
 
 **Cons**:
- - Does not automatically detect different speakers
  - Slower on older computers
 
 ### Zoom
