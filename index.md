@@ -6,14 +6,14 @@ nav_order: 1
 
 <img src="images/atrain-logo.png" style="float:right;width:180px;" alt="aTrain logo">
 
-# Transcription with Whisper.ai and Microsoft 365
+# Transcription with aTrain and Microsoft 365
 
 - Introductory presentation: 10 min
 - Hands-on activities: 30-40 min
 
 ## Why use transcription services?
 
-Automated transcription services can help save time in qualitative research. While there are many options available, [Microsoft 365](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57){:target="_blank"}, [aTrain Mac](https://apps.apple.com/us/app/whisper-transcription/id1668083311?mt=12){:target="_blank"}, [aTrain Windows](https://apps.microsoft.com/detail/9N15Q44SZNS2?mode=direct){:target="_blank"} and [Zoom](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0064927){:target="_blank"} are services that are free for UVic students and faculty. When choosing transcription services to use, one should also take into account the pros, cons, and research ethics considerations that are specific to each service.
+Automated transcription services can help save time in qualitative research. While there are many options available, [Microsoft 365](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57){:target="_blank"}, aTrain [Mac](https://apps.apple.com/us/app/whisper-transcription/id1668083311?mt=12){:target="_blank"} & [Windows](https://apps.microsoft.com/detail/9N15Q44SZNS2?mode=direct){:target="_blank"} (based on the [Whisper trainscription open source project](https://github.com/openai/whisper){:target="_blank"}) and [Zoom](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0064927){:target="_blank"} are services that are free for UVic students and faculty. When choosing transcription services to use, one should also take into account the pros, cons, and research ethics considerations that are specific to each service.
 
 ## Learning Objectives
 
