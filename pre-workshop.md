@@ -3,15 +3,12 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-## UVic Guidelines for Using Generative AI in Research
-As a researcher it is very important that you carefully review UVic's guidelines for using [*Generative AI in research*](https://www.uvic.ca/research-innovation/strategic-initiatives/gen-ai-in-research/index.php){:target="_blank"}, which are based on Canada's [Tri-agency Artificial Intelligence guidelines](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/use-generative-artificial-intelligence-development-and-review-research-proposals/guidance-use-artificial-intelligence-development-and-review-research-grant-proposals){:target="_blank"}.
-
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with Microsoft 365 and Whisper transcription services to learn to use key features of the software.
 
 > **Please Note: If you are a UVic staff or faculty member, you will not be able to use the aTrain transcription software on your UVic provided computer, so to participate in the workshop you will need to install the software on a personal laptop** 
 
-Here is a link to the [Windows Software](https://apps.microsoft.com/store/detail/atrain/9N15Q44SZNS2){:target="_blank"} & the [Mac Software](https://goodsnooze.gumroad.com/l/macwhisper){:target="_blank"}. You will be able to use the Microsoft 365 transcription service without any problems.
+Here are the links to the aTrain [Mac](https://apps.apple.com/us/app/whisper-transcription/id1668083311?mt=12){:target="_blank"} & [Windows](https://apps.microsoft.com/detail/9N15Q44SZNS2?mode=direct){:target="_blank"} software. You will be able to use the cloud based Microsoft 365 transcription service without any problems.
 
 To participate fully, please do the following **before the workshop**:
 
