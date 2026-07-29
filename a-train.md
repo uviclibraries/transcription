@@ -38,4 +38,6 @@ To transcribe a file using aTrain, follow the steps below.
 
 Congratulations! You just transcribed your first file using aTrain!
 
+NOTE: **UVic and the DSC do not endorse aTrain, so before using it any research, please consult with the helpful folks at [UVic's Human Research Ethics office](https://www.uvic.ca/research-services/ethics-and-compliance/human-ethics/index.php){:target="_blank"}**.
+
 [NEXT: Earn a badge](informal-credentials.md){: .btn .btn-blue }
