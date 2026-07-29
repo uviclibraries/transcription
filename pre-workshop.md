@@ -4,9 +4,9 @@ title: Pre-Workshop Activities
 nav_order: 2
 ---
 ## Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with Microsoft 365 and Whisper transcription services to learn to use key features of the software.
+This workshop is primarily hands-on practice with transcription services to learn to use key features of the software.
 
-> **Please Note: If you are a UVic staff or faculty member, you will not be able to use the aTrain transcription software on your UVic provided computer, so to participate in the workshop you will need to install the software on a personal laptop** 
+> **Please Note: aTrain is not endorsed or supported by UVic or the DSC. If you are a UVic staff or faculty member, you will not be able to use the aTrain transcription software on your UVic provided computer, so if you want to use this software in the workshop you will need to install the software on a personal laptop** 
 
 Here are the links to the aTrain [Mac](https://apps.apple.com/us/app/whisper-transcription/id1668083311?mt=12){:target="_blank"} & [Windows](https://apps.microsoft.com/detail/9N15Q44SZNS2?mode=direct){:target="_blank"} software. You will be able to use the cloud based Microsoft 365 transcription service without any problems.
 
@@ -24,29 +24,31 @@ To participate fully, please do the following **before the workshop**:
  - Free through UVic license
  - Fast transcription
  - Automatically detects different speakers
- - May not need to include a US Freedom Act disclosure, but please check with the Research Ethic office when filling out your Research Ethics paperwork.
+ - Cloud hosted in servers located in Canada
+ - Please check with the Research Ethic office when filling out your Research Ethics paperwork
 
 **Cons**:
  - Must to disclose cloud computing use in ethics application and participant participant consent forms
-
-### aTrain Implementation of Whisper
-**Pros**:
- - Free basic version
- - Detects speakers
- - May not need to disclose cloud use in resarch ethics application & participant consent forms because aTrain does not use cloud computing, but please check with the Research Ethic office when filling out your Research Ethics paperwork.
-
-**Cons**:
- - Slower on older computers
 
 ### Zoom
 **Pros**:
  - Free through UVic license
  - Fast transcription
  - Automatically detects different speakers with their Zoom names
+ - Cloud hosted in servers located in Canada
+ - Please check with the Research Ethic office when filling out your Research Ethics paperwork
 
 **Cons**:
  - Must disclose cloud computing use in research ethics application and participant consent forms
- - Must disclose data storage in the United States in research ethics application and participant consent forms
+
+### aTrain Implementation of Whisper
+**Pros**:
+ - Open Source and free to use and runs on your computer
+ - Detects speakers
+ - Please check with the Research Ethic office when filling out your Research Ethics paperwork.
+
+**Cons**:
+ - Slower on older computers
 
 > **For the most up-to-date information about UVic ethics guidelines, please visit the [Conducting research virtually with participants guide](https://www.uvic.ca/research-services/ethics-and-compliance/conducting-research-virtually/index.php){:target="_blank"}**
 
