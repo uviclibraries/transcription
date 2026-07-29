@@ -8,7 +8,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # aTrain Transcription Activity
 
-aTrain is a transcription software that uses open-source Whisper code base and AI models to transcribe audio files, runs locally on your computer, and therefore does not rely on any cloud-based services. In addition, aTrain can detect speakers. When using aTrain, you can choose which model you want to use to transcribe your file: simpler models will transcribe faster but might make more mistakes, while larger models are more accurate but take more time. If you want to know about the differences in error rates and run time for each model, or about aTrain in general, check out their [research paper](https://doi-org/10.1016/j.jbef.2024.100891){:target="_blank"}. In fact, **if you are using aTrain for research, you should cite the paper above**.
+aTrain is a transcription software that uses open-source Whisper code base and AI models to transcribe audio files, runs locally on your computer, but is not endorsed by UVic or the DSC. UVic and the DSC do not endorse aTrain, so before using it any research, please consult with the helpful folks at [UVic's Human Research Ethics office](https://www.uvic.ca/research-services/ethics-and-compliance/human-ethics/index.php){:target="_blank"}. 
+
+In addition, aTrain can detect speakers. When using aTrain, you can choose which model you want to use to transcribe your file: simpler models will transcribe faster but might make more mistakes, while larger models are more accurate but take more time. If you want to know about the differences in error rates and run time for each model, or about aTrain in general, check out their [research paper](https://doi-org/10.1016/j.jbef.2024.100891){:target="_blank"}. In fact, **if you are using aTrain for research, you should cite the paper above**.
 
 To transcribe a file using aTrain, follow the steps below.
 
