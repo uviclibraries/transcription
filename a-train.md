@@ -10,15 +10,17 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 aTrain is a transcription software that uses open-source Whisper code base and AI models to transcribe audio files, runs locally on your computer, but is not endorsed by UVic or the DSC. UVic and the DSC do not endorse aTrain, so before using it any research, please consult with the helpful folks at [UVic's Human Research Ethics office](https://www.uvic.ca/research-services/ethics-and-compliance/human-ethics/index.php){:target="_blank"}. 
 
-In addition, aTrain can detect speakers. When using aTrain, you can choose which model you want to use to transcribe your file: simpler models will transcribe faster but might make more mistakes, while larger models are more accurate but take more time. If you want to know about the differences in error rates and run time for each model, or about aTrain in general, check out their [research paper](https://doi-org/10.1016/j.jbef.2024.100891){:target="_blank"}. In fact, **if you are using aTrain for research, you should cite the paper above**.
+aTrain can detect speakers. When using aTrain, you can choose which model you want to use to transcribe your file: simpler models will transcribe faster but might make more mistakes, while larger models are more accurate but take more time. If you want to know about the differences in error rates and run time for each model, or about aTrain in general, check out their [research paper](https://doi-org/10.1016/j.jbef.2024.100891){:target="_blank"}. In fact, **if you are using aTrain for research, you should cite the paper above**.
 
 To transcribe a file using aTrain, follow the steps below.
 
-1. If you are using Windows, download aTrain from the [Microsoft Store](https://apps.microsoft.com/detail/9N15Q44SZNS2?hl=en-us&gl=US){:target="_blank"}. You won't need admin permission to download aTrain, but if you have Microsoft Store disabled for some reason, you can also download it directly from [here](https://business-analytics.uni-graz.at/en/research/atrain/download/?hl=en-us&gl=US){:target="_blank"}. If you are on a Mac, you can also download aTrain from [this link](https://business-analytics.uni-graz.at/en/research/atrain/download/?hl=en-us&gl=US){:target="_blank"}, but it will only work on Macs that use Apple Silicon processors.
+1. Download & Install aTrain:
+   - If you are using Windows, download aTrain from the [Microsoft Store](https://apps.microsoft.com/detail/9N15Q44SZNS2?hl=en-us&gl=US){:target="_blank"}. You won't need admin permission to download aTrain, but if you have Microsoft Store disabled for some reason, you can also download it directly from [here](https://business-analytics.uni-graz.at/en/research/atrain/download/?hl=en-us&gl=US){:target="_blank"}.
+   - If you are on a Mac, you can also download aTrain from [this link](https://business-analytics.uni-graz.at/en/research/atrain/download/?hl=en-us&gl=US){:target="_blank"}, but it will only work on Macs that use Apple Silicon processors.
    
-2. Open the aTrain app.
+3. Open the aTrain app on your laptop.
      
-3. In the main page, under **Select file**, click on **Select File** to select the file you want to transcribe. If you don’t have an MP3 audio file to transcribe please download one of the following files and make note of which folder your web browser places in on your computer:
+4. In the main page, under **Select file**, click on **Select File** to select the file you want to transcribe. If you don’t have an MP3 audio file to transcribe please download one of the following files and make note of which folder your web browser places in on your computer:
   - [6-minute interview for older computers](https://uviclibraries.github.io/transcription/media/makerspaces-6m.mp3){:target="_blank"}.
   - [30-minute interview for newer computers](https://uviclibraries.github.io/transcription/media/makerspaces-30m.mp3){:target="_blank"}.
     ![Export this view](media/atrain-gif01-openfile.gif)<br>
