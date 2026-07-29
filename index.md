@@ -22,8 +22,7 @@ When choosing transcription services to use, one should also take into account t
 - Describe the benefits and use cases for transcribing audio with Microsoft 365, aTrain, and Zoom compared to other transcription technologies
 - Setup (if necessary) and open Microsoft Word 365 in a web browser on your computer (not the installed Word application)
 - Setup (if necessary) and open aTrain Transcription on your computer
-- Describe the benefits and use cases for transcribing audio with Whisper.ai compared to other transcription technologies
-- Transcribe an audio file
+- Transcribe an audio file using one of the tools from the workshop.
 - Export transcription in two or more different formats
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
