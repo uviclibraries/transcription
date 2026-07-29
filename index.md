@@ -6,7 +6,7 @@ nav_order: 1
 
 <img src="images/atrain-logo.png" style="float:right;width:180px;" alt="aTrain logo">
 
-# Transcription with aTrain & Microsoft 365
+# Transcription with Microsoft 365, Zoom & aTrain
 
 - Introductory presentation: 10 min
 - Hands-on activities: 30-40 min
