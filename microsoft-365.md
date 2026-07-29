@@ -12,7 +12,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
    ![Export this view](media/microsoft365-01.png)<br>
    - Wait 2-minutes & then log into Office 365 with your UVic email address: portal.office.com 
    -  If you are in a face-to-face workshop and you have any problems signing up for the UVic-licensed version of Microsoft 365 or accessing it, please ask your instructor for assistance. If you are working through this on your own and are having problems, please contact the UVic helpdesk: helpdesk@uvic.ca
-3. Transcribe an audio file from a Zoom interview:
+3. Transcribe an audio file from an interview:
    -  Make sure you’re signed into  Microsoft 365, using the new Microsoft Edge or Chrome web browser.
    -  Open Word in the left nav bar and then create a new Blank document.<br>
    ![Export this view](media/microsoft365-03.gif)<br>
@@ -25,3 +25,5 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 4. Add the transcription to your file, by selecting Add to document and then clicking on, With speakers. Note that there are multiple formats, but for researchers, the most popular format is “With speakers”<br>
    ![Export this view](media/microsoft365-02.gif)<br>
 5. Great job! You’ve just transcribed your first audio file with Microsoft 365!
+
+NOTE: Don't forget that you are **limited to 300 minutes of audio transcription per month** with your UVic provided Microsoft 365 account.
