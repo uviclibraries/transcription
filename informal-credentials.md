@@ -17,7 +17,7 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 
 If you’d like to earn a DSC badge for this workshop, please email the following to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 1. A screenshot or photo of the Microsoft Word interface with the completed transcription of an audio file.
-2. A screenshot or photo of the aTrain interview with the completed transcription of an audio file.
+2. OPTIONAL: A screenshot or photo of the aTrain interview with the completed transcription of an audio file.
 3. One or two sentences describing the pros and cons of using aTrain instead of a cloud-based transcription service hosted in the United States.
 
 ### Learn how you can share your DSC Badge
