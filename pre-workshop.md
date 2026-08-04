@@ -50,5 +50,5 @@ To participate fully, please do the following **before the workshop**:
 
 > **For the most up-to-date information about UVic ethics guidelines, please visit the [Conducting research virtually with participants guide](https://www.uvic.ca/research-services/ethics-and-compliance/conducting-research-virtually/index.php){:target="_blank"}**
 
-[Next Activity: aTRain Transcription](a-train.html){: .btn .btn-blue }
+[Next Activity: aTrain Transcription](a-train.html){: .btn .btn-blue }
 [Next Activity: Microsoft 365](microsoft-365.html){: .btn .btn-blue }
