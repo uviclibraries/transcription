@@ -28,7 +28,7 @@ To participate fully, please do the following **before the workshop**:
  - Please check with the Research Ethic office when filling out your Research Ethics paperwork
 
 **Cons**:
- - Must to disclose cloud computing use in ethics application and participant participant consent forms
+ - Limited to 300 minutes per month of transcription
 
 ### Zoom
 **Pros**:
@@ -38,13 +38,11 @@ To participate fully, please do the following **before the workshop**:
  - Cloud hosted in servers located in Canada
  - Please check with the Research Ethic office when filling out your Research Ethics paperwork
 
-**Cons**:
- - Must disclose cloud computing use in research ethics application and participant consent forms
-
 ### aTrain Implementation of Whisper
 **Pros**:
  - Open Source and free to use and runs on your computer
  - Detects speakers
+ - No limits on how much transcription you can do
  - Please check with the Research Ethic office when filling out your Research Ethics paperwork.
 
 **Cons**:
@@ -52,5 +50,5 @@ To participate fully, please do the following **before the workshop**:
 
 > **For the most up-to-date information about UVic ethics guidelines, please visit the [Conducting research virtually with participants guide](https://www.uvic.ca/research-services/ethics-and-compliance/conducting-research-virtually/index.php){:target="_blank"}**
 
-[Next Activity: Whisper Transcription](whisper-transcription.md){: .btn .btn-blue }
-[Next Activity: Microsoft 365](microsoft-365.md){: .btn .btn-blue }
+[Next Activity: aTRain Transcription](a-train.html){: .btn .btn-blue }
+[Next Activity: Microsoft 365](microsoft-365.html){: .btn .btn-blue }
