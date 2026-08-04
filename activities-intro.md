@@ -11,5 +11,5 @@ This workshop is primarily hands-on practice with Microsoft 365 and Whisper tran
 - Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Next Activity: Whisper Transcription](whisper-transcription.md){: .btn .btn-blue }
-[Next Activity: Microsoft 365](microsoft-365.md){: .btn .btn-blue }
+[Next Activity: aTrain Transcription](a-train.html){: .btn .btn-blue }
+[Next Activity: Microsoft 365](microsoft-365.html){: .btn .btn-blue }
