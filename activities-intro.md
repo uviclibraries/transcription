@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 3
 ---
-## Hands-On Activities Introduction
+## Introduction for Self-Directed Learners
 This workshop is primarily hands-on practice with Microsoft 365 and Whisper transcription services in order to learn to use key features of the software. To participate fully you may do the following **before the workshop**:
 
 - Please review the following [Introductory Slides](https://docs.google.com/presentation/d/1DSi-h-4R5Lo2zv5Lukux4Oi8ekahJwW6AJQWAahovVY/edit?usp=sharing){:target="_blank"}
