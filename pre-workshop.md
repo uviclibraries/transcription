@@ -8,7 +8,7 @@ This workshop is primarily hands-on practice with transcription services to lear
 
 > **Please Note: aTrain is not endorsed or supported by UVic or the DSC. If you are a UVic staff or faculty member, you will not be able to use the aTrain transcription software on your UVic provided computer, so if you want to use this software in the workshop you will need to install the software on a personal laptop** 
 
-Here are the links to the aTrain [Mac](https://apps.apple.com/us/app/whisper-transcription/id1668083311?mt=12){:target="_blank"} & [Windows](https://apps.microsoft.com/detail/9N15Q44SZNS2?mode=direct){:target="_blank"} software. You will be able to use the cloud based Microsoft 365 transcription service without any problems.
+Here are the links to the aTrain [Mac](https://business-analytics.uni-graz.at/en/research/atrain/download/?hl=en-us&gl=US){:target="_blank"} & [Windows](https://business-analytics.uni-graz.at/en/research/atrain/download/?hl=en-us&gl=US){:target="_blank"} software. You will be able to use the cloud based Microsoft 365 transcription service without any problems.
 
 To participate fully, please do the following **before the workshop**:
 
